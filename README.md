@@ -1,6 +1,6 @@
-# FLITS.jl
+# tracer
 
-Implementation of FLITS (Fast LIne Tracer) in the Rust programming language.
+Implementation of FLITS (Fast LIne Tracer) adn RADLite in the Rust programming language.
 
 > [!WARNING]
 > Under development &mdash; not yet ready for production.
